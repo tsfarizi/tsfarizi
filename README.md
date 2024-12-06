@@ -36,17 +36,19 @@
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="background:#fff; padding:5px;"/>
   <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" style="background:#fff; padding:5px;"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" style="background:#fff; padding:5px;"/>
   
-  <!-- Mengganti ikon Node.js dan Deno dengan ikon yang memiliki background agar lebih terlihat -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="background:#fff; padding:5px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" height="40" style="background:#fff; padding:5px;"/>
+  <!-- Flask ikon dengan invert -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="40" style="background:#fff; padding:5px; filter: invert(1);" />
+  
+  <!-- Node.js & Deno dengan invert -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" height="40" style="background:#fff; padding:5px; filter: invert(1);"/>
   
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="background:#fff; padding:5px;"/>
   <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" style="background:#fff; padding:5px;"/>
   
-  <!-- Rust Logo yang terlihat gelap dapat diganti dari sumber lain yang memiliki kontras -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" height="40" style="background:#fff; padding:5px;"/>
+  <!-- Rust ikon dengan invert -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" height="40" style="background:#fff; padding:5px; filter: invert(1);"/>
   
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" style="background:#fff; padding:5px;"/>
 </p>
@@ -57,8 +59,12 @@
 #### DevOps  
 <p align="center">
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" style="background:#fff; padding:5px;"/>
+  
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="background:#fff; padding:5px;"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" style="background:#fff; padding:5px;"/>  
+  
+  <!-- Bash ikon berwarna -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="40" style="background:#fff; padding:5px;"/>
+  
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" style="background:#fff; padding:5px;"/>
   <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" style="background:#fff; padding:5px;"/>
   <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" style="background:#fff; padding:5px;"/>
@@ -73,7 +79,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Menambahkan profil details card -->
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=tsfarizi&theme=ayu_mirage" alt="Profile Details" />
 </p>
 
@@ -96,3 +101,5 @@
 </p>
 
 ---
+
+Dengan pengaturan ini, ikon-ikon yang tadinya gelap akan lebih mudah terlihat berkat penggunaan background putih serta filter invert pada ikon-ikon yang hanya memiliki warna hitam. Anda dapat menyesuaikan lebih lanjut sesuai estetika yang diinginkan.
