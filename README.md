@@ -1,9 +1,3 @@
-<!-- Banner atau Header -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your_banner_image_link_here" alt="Banner" width="100%"/>
-</p>
-
-<!-- Perkenalan -->
 <h1 align="center">Hi 👋, I'm Farizi</h1>
 <p align="center">
   Seorang mahasiswa informatika dari Indonesia dengan fokus pengembangan aplikasi multiplatform menggunakan bahasa pemrograman <strong>Dart</strong>, framework <strong>Flutter</strong>, serta <strong>Firebase</strong> untuk solusi backend. Selain itu, saya juga memiliki pengalaman pengembangan web menggunakan <strong>React, HTML, CSS, JS</strong>, dan framework <strong>Django</strong>. Saya mahir dalam pemrograman skrip dengan <strong>Python</strong>, memiliki minat yang kuat pada bidang <strong>AI/ML (Artificial Intelligence/Machine Learning)</strong>, serta eksplorasi <strong>Unreal Engine</strong>.
@@ -69,6 +63,7 @@
 <p align="center">
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/repos-per-language?username=tsfarizi&theme=ayu_mirage" alt="Repos-per-language"/>
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/stats?username=tsfarizi&theme=ayu_mirage" alt="Stats"/>
+  ![](http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=tsfarizi&theme=ayu_mirage)
 </p>
 
 ---
@@ -85,7 +80,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tsfarizi.tsfarizi" alt="visitor badge"/>  
-</p>
