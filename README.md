@@ -1,9 +1,4 @@
-<!-- Banner atau Header -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your_banner_image_link_here" alt="Banner" width="100%"/>
-</p>
 
-<!-- Perkenalan -->
 <h1 align="center">Hi 👋, I'm Farizi</h1>
 <p align="center">
   A motivated informatics student from Indonesia with a passion for creating cross-platform applications and exploring innovative solutions in software development. With a strong foundation in programming and a keen interest in emerging technologies, I am dedicated to learning, problem-solving, and contributing to impactful projects. My areas of interest include modern application development, creative technology, and continuous improvement in the tech industry.
@@ -37,18 +32,15 @@
   <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="background:#fff; padding:5px;"/>
   <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" style="background:#fff; padding:5px;"/>
   
-  <!-- Flask ikon dengan invert -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="40" style="background:#fff; padding:5px; filter: invert(1);" />
   
-  <!-- Node.js & Deno dengan invert -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="background:#fff; padding:5px;"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" height="40" style="background:#fff; padding:5px; filter: invert(1);"/>
   
   <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="background:#fff; padding:5px;"/>
   <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" style="background:#fff; padding:5px;"/>
-  
-  <!-- Rust ikon dengan invert -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" height="40" style="background:#fff; padding:5px; filter: invert(1);"/>
+
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a> 
   
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" style="background:#fff; padding:5px;"/>
 </p>
@@ -62,7 +54,6 @@
   
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="background:#fff; padding:5px;"/>  
   
-  <!-- Bash ikon berwarna -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" height="40" style="background:#fff; padding:5px;"/>
   
   <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" style="background:#fff; padding:5px;"/>
