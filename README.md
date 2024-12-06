@@ -87,5 +87,3 @@
 </p>
 
 ---
-
-Dengan pengaturan ini, ikon-ikon yang tadinya gelap akan lebih mudah terlihat berkat penggunaan background putih serta filter invert pada ikon-ikon yang hanya memiliki warna hitam. Anda dapat menyesuaikan lebih lanjut sesuai estetika yang diinginkan.
