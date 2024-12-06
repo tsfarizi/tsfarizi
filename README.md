@@ -1,6 +1,12 @@
+<!-- Banner atau Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your_banner_image_link_here" alt="Banner" width="100%"/>
+</p>
+
+<!-- Perkenalan -->
 <h1 align="center">Hi 👋, I'm Farizi</h1>
 <p align="center">
-  Seorang mahasiswa informatika dari Indonesia dengan fokus pengembangan aplikasi multiplatform menggunakan bahasa pemrograman <strong>Dart</strong>, framework <strong>Flutter</strong>, serta <strong>Firebase</strong> untuk solusi backend. Selain itu, saya juga memiliki pengalaman pengembangan web menggunakan <strong>React, HTML, CSS, JS</strong>, dan framework <strong>Django</strong>. Saya mahir dalam pemrograman skrip dengan <strong>Python</strong>, memiliki minat yang kuat pada bidang <strong>AI/ML (Artificial Intelligence/Machine Learning)</strong>, serta eksplorasi <strong>Unreal Engine</strong>.
+  A motivated informatics student from Indonesia with a passion for creating cross-platform applications and exploring innovative solutions in software development. With a strong foundation in programming and a keen interest in emerging technologies, I am dedicated to learning, problem-solving, and contributing to impactful projects. My areas of interest include modern application development, creative technology, and continuous improvement in the tech industry.
 </p>
 
 ---
@@ -10,17 +16,17 @@
 <table>
 <tr>
 <td valign="top" width="33%">
-
+  
 #### Frontend  
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" style="background:#fff; padding:5px;"/>
 </p>
 
 </td>
@@ -28,15 +34,21 @@
 
 #### Backend  
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="40" style="background:#fff; padding:5px;"/>
+  
+  <!-- Mengganti ikon Node.js dan Deno dengan ikon yang memiliki background agar lebih terlihat -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="Deno" height="40" style="background:#fff; padding:5px;"/>
+  
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="40" style="background:#fff; padding:5px;"/>
+  
+  <!-- Rust Logo yang terlihat gelap dapat diganti dari sumber lain yang memiliki kontras -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" height="40" style="background:#fff; padding:5px;"/>
+  
+  <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" style="background:#fff; padding:5px;"/>
 </p>
 
 </td>
@@ -44,12 +56,12 @@
 
 #### DevOps  
 <p align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/>  
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" style="background:#fff; padding:5px;"/>  
+  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="40" style="background:#fff; padding:5px;"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" style="background:#fff; padding:5px;"/>
 </p>
 
 </td>
@@ -61,9 +73,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Menambahkan profil details card -->
+  <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=tsfarizi&theme=ayu_mirage" alt="Profile Details" />
+</p>
+
+<p align="center">
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/repos-per-language?username=tsfarizi&theme=ayu_mirage" alt="Repos-per-language"/>
   <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/stats?username=tsfarizi&theme=ayu_mirage" alt="Stats"/>
-  ![](http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=tsfarizi&theme=ayu_mirage)
 </p>
 
 ---
