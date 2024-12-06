@@ -63,10 +63,10 @@ Hello, my name is Farizi, an informatics student from Indonesia. I specialize in
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/tsfarizi" target="_blank">
+<a href="https://github.com/tsfarizi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/ts_farizi/" target="_blank">
+<a href="https://instagram.com/ts_farizi/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -76,26 +76,6 @@ Hello, my name is Farizi, an informatics student from Indonesia. I specialize in
 
 
 ## Github Stats  
-  
-
+![](http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/repos-per-language?username=tsfarizi&theme=ayu_mirage)
+![](http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/stats?username=tsfarizi&theme=ayu_mirage)
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
