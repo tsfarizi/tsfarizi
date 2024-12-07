@@ -35,6 +35,16 @@
 
 ---
 
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/profile-details?username=tsfarizi&theme=panda" alt="GitHub Profile Details" />
+  <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/repos-per-language?username=tsfarizi&theme=panda" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards-ktcudck4p.vercel.app/api/cards/stats?username=tsfarizi&theme=panda" alt="GitHub Stats" />
+</p>
+
+---
 ### 🤝 Connect with me
 
 <p align="center">
