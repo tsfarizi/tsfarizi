@@ -1,5 +1,3 @@
-<div style="background-color: #0D1117; color: #ffffff; padding: 20px; border-radius: 10px;">
-
 <h1 align="center" style="color: #ffffff;">Hi 👋, I'm Farizi</h1>
 <p align="center" style="color: #ffffff; max-width: 800px; margin: auto;">
   A motivated informatics student from Indonesia with a passion for creating cross-platform applications and exploring innovative solutions in software development. With a strong foundation in programming and a keen interest in emerging technologies, I am dedicated to learning, problem-solving, and contributing to impactful projects. My areas of interest include modern application development, creative technology, and continuous improvement in the tech industry.
@@ -45,17 +43,6 @@
   </div>
 </div>
 
-<style>
-@keyframes scroll {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-
-div > div {
-  animation: scroll 30s linear infinite;
-}
-</style>
-
 ---
 
 ### 📊 GitHub Stats
@@ -79,4 +66,4 @@ div > div {
   </a>
 </p>
 
-</div>
+
