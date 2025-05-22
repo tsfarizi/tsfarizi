@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farizi</h1>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Farizi)](https://git.io/typing-svg)
 <p align="center">
   A motivated informatics student from Indonesia with a passion for creating cross-platform applications and exploring innovative solutions in software development. With a strong foundation in programming and a keen interest in emerging technologies, I am dedicated to learning, problem-solving, and contributing to impactful projects. My areas of interest include modern application development, creative technology, and continuous improvement in the tech industry.
 </p>
